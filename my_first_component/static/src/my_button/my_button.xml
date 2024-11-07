@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<templates id="my_first_component">
+    <t t-name="my_first_component.MyButtonTemplate">
+        <button type="button" t-on-click="onClick">Click Me!</button>
+    </t>
+</templates>
